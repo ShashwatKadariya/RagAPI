@@ -1,4 +1,5 @@
 # Conversational RAG Backend with Document Ingestion and Interview Booking
+(note: Mistral LLM is used for Chat System)
 
 This project is a **backend system** built with **FastAPI** providing two main REST APIs:
 
